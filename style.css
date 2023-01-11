@@ -59,7 +59,7 @@ section.imagem {
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.5);
-    position: right bottom;
+    background-position: right center;
 
 }
 section.imagem > p {
@@ -116,4 +116,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 3.5vw;
 }
